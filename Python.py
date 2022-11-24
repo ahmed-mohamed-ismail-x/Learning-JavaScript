@@ -1,7 +1,7 @@
 #my_name = "Ahmed"
 #print(f"Hello {my_name}")
 
-
+# brute forcing all the possible operations between some numbers
 i1 = 0
 i2 = 0
 i3 = 0
